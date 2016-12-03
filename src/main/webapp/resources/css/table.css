@@ -1,0 +1,8 @@
+@CHARSET "UTF-8";
+
+table, th, td {
+	width:400px;
+	border: 1px solid black;
+	margin: 20px;
+	padding: 20px;
+}
